@@ -69,16 +69,16 @@ A full time Student and part Time Poet and Creative Writer
 </p>
 
 ## 🔗 Connect with me:
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/tar1qul/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   &emsp;
   <a href="https://www.facebook.com/tariqul.soykot.01/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="40" height="40" style="filter: invert(29%) sepia(98%) saturate(1643%) hue-rotate(203deg) brightness(97%) contrast(101%);"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="Facebook" width="40" height="40"/>
   </a>
   &emsp;
   <a href="https://www.instagram.com/tariqul.soykot.001/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40" style="filter: invert(41%) sepia(71%) saturate(3667%) hue-rotate(314deg) brightness(97%) contrast(101%);"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
