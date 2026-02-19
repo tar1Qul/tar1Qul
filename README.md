@@ -13,13 +13,13 @@
 tar1Qul
 --------
 📚 I am pursuing Computer Science & Engineering at the University of Liberal Arts Bangladesh.<br>
-💻 I am a 7th semister CSE student.<br>
+💻 I am a 8th semister CSE student.<br>
 🔭 I am an IT executive and Technical Team manager at BangLabs.<br>
 🌱 Aspiring software engineer || MERN Stack Developer || Exploring Back-End Development.<br>
 💖 In a complicated relationship with web development.<br>
 🌟 Main languages: C,HTML, CSS, Python, Javascript.<br>
 ```
-As a 7th semester Computer Science and Engineering student at the University of Liberal Arts Bangladesh (ULAB), I am passionate about coding, web development, and business. I am always eager to learn and explore new technologies, constantly seeking opportunities to enhance my skills.
+As a 8th semester Computer Science and Engineering student at the University of Liberal Arts Bangladesh (ULAB), I am passionate about coding, web development, and business. I am always eager to learn and explore new technologies, constantly seeking opportunities to enhance my skills.
 
 In addition to my technical interests, I enjoy expressing my creativity through digital art, using Adobe Photoshop and Illustrator. I also love writing poetry in my free time.
 
