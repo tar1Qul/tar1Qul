@@ -79,13 +79,29 @@ A full time Student and part Time Poet and Creative Writer
 </p>
 
 ---
-## ⏱️ Coding Activity
+# ⏱️ Coding Activity
 <a href="https://wakatime.com/@1da1ec5e-f12a-45dd-81e0-15fea861bc8e" target="_blank">
   <img 
     src="https://wakatime.com/badge/user/1da1ec5e-f12a-45dd-81e0-15fea861bc8e.svg?style=for-the-badge"
     alt="WakaTime Badge"
   />
-</a>
+</a>>
+
+---
+
+# 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=tar1Qul&theme=neon&hide_border=false&include_all_commits=true&count_private=true" />
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=tar1Qul&theme=neon&hide_border=false" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tar1Qul&theme=react-dark" />
+
+---
 
 ## 🔗 Connect with me:
 <p align="center">
