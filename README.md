@@ -1,6 +1,13 @@
 <h1 align="center">Hellow there <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm MD. TARIQUL ISLAM. </h1>
-
 </h1>
+
+</br>
+
+<div align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=shohan12727&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"/>
+</div>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=25&pause=1000&center=true&vCenter=true&width=1000&height=100&color=00F7FF&lines=CSE+Student+%40+ULAB;IT+Executive+and+Technical+Team+Manager+%40+BangLabs;Into+Cybersecurity;Aspiring+Software+Engineer;MERN+Stack+Developer;Exploring+Back-End+Development">
