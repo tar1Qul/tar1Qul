@@ -119,7 +119,7 @@ A full time Student and part Time Poet and Creative Writer
   </a>
   &emsp;
 
-  <a href="#" target="_blank" rel="noreferrer">
+  <a href="https://tar1qul.github.io/Portfolio-web-page-design-with-raw-HTML-CSS/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Portfolio" width="40" height="40"/>
   </a>
 </p>
