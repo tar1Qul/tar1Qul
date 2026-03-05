@@ -79,17 +79,16 @@ A full time Student and part Time Poet and Creative Writer
 </p>
 
 ---
-# ⏱️ Coding Activity
+## ⏱️ Coding Activity
 <a href="https://wakatime.com/@1da1ec5e-f12a-45dd-81e0-15fea861bc8e" target="_blank">
   <img 
     src="https://wakatime.com/badge/user/1da1ec5e-f12a-45dd-81e0-15fea861bc8e.svg?style=for-the-badge"
-    alt="WakaTime Badge"
-  />
-</a>>
+    alt="WakaTime Badge"/>
+</a>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=tar1Qul&theme=neon&hide_border=false&include_all_commits=true&count_private=true" />
 
@@ -104,16 +103,23 @@ A full time Student and part Time Poet and Creative Writer
 ---
 
 ## 🔗 Connect with me:
-<p align="center">
+<p align="">
   <a href="https://www.linkedin.com/in/tar1qul/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   &emsp;
+
   <a href="https://www.facebook.com/tariqul.soykot.01/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="Facebook" width="40" height="40"/>
   </a>
   &emsp;
+
   <a href="https://www.instagram.com/tariqul.soykot.001/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
+  </a>
+  &emsp;
+
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Portfolio" width="40" height="40"/>
   </a>
 </p>
