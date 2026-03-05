@@ -5,8 +5,9 @@
 
 <div align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=shohan12727&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Profile Views"/>
+    src="https://komarev.com/ghpvc/?username=tar1Qul&label=PROFILE%20VIEWS&color=ff69b4&style=for-the-badge"
+    alt="Profile Views"
+  />
 </div>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
