@@ -119,7 +119,11 @@ A full time Student and part Time Poet and Creative Writer
   </a>
   &emsp;
 
-  <a href="https://tar1qul.github.io/Portfolio-web-page-design-with-raw-HTML-CSS/" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Portfolio" width="40" height="40"/>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="Portfolio.png" alt="Portfolio" width="40" height="40"/>
+  </a>
+
+  <a href="tariqul.islam.cse@ulab.edu.bd" target="_blank" rel="noreferrer">
+    <img src="mail.png" alt="Mail" width="40" height="40"/>
   </a>
 </p>
