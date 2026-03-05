@@ -4,10 +4,9 @@
 </br>
 
 <div align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=tar1Qul&label=PROFILE%20VIEWS&color=ff69b4&style=for-the-badge"
-    alt="Profile Views"
-  />
+  
+![Profile Views](https://komarev.com/ghpvc/?username=tar1Qul&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+
 </div>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
