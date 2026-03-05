@@ -78,6 +78,20 @@ A full time Student and part Time Poet and Creative Writer
   </a>
 </p>
 
+</br>
+## ⏱️ Coding Activity
+
+<div align="center">
+
+<a href="https://wakatime.com/@1da1ec5e-f12a-45dd-81e0-15fea861bc8e" target="_blank">
+  <img 
+    src="https://wakatime.com/badge/user/1da1ec5e-f12a-45dd-81e0-15fea861bc8e.svg?style=for-the-badge"
+    alt="WakaTime Coding Activity"
+  />
+</a>
+
+</div>
+
 ## 🔗 Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/tar1qul/" target="_blank" rel="noreferrer">
