@@ -1,5 +1,4 @@
 <h1 align="center">Hellow there <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm MD. TARIQUL ISLAM. </h1>
-</h1>
 
 </br>
 
@@ -23,7 +22,7 @@
 tar1Qul
 --------
 📚 I am pursuing Computer Science & Engineering at the University of Liberal Arts Bangladesh.<br>
-💻 I am a 8th semister CSE student.<br>
+💻 I am a 8th semester CSE student.<br>
 🔭 I am an IT executive and Technical Team manager at BangLabs.<br>
 🌱 Aspiring software engineer || MERN Stack Developer || Exploring Back-End Development.<br>
 💖 In a complicated relationship with web development.<br>
@@ -123,7 +122,7 @@ A full time Student and part Time Poet and Creative Writer
     <img src="Portfolio.png" alt="Portfolio" width="40" height="40"/>
   </a>
 
-  <a href="tariqul.islam.cse@ulab.edu.bd" target="_blank" rel="noreferrer">
+  <a href="mailto:tariqul.islam.cse@ulab.edu.bd" target="_blank" rel="noreferrer">
     <img src="mail.png" alt="Mail" width="40" height="40"/>
   </a>
 </p>
